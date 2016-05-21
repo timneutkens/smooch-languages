@@ -9,7 +9,7 @@ Small package to provide translations for [Smooch](https://github.com/smooch/smo
 
 ## Installation
 
-Install using npm
+### Install using npm
 
 `npm install --save smooch-languages`
 
@@ -24,7 +24,7 @@ Smooch.init({
 })
 ```
 
-Install using bower
+### Install using bower
 
 `bower install --save smooch-languages`
 
