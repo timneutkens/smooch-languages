@@ -1,11 +1,15 @@
 {
   "name": "smooch-languages",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple language pack for Smooch",
   "main": "index.js",
   "scripts": {
     "build": "browserify main.js --standalone smooch-languages -o bower.js"
   },
   "author": "Tim Neutkens",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/timneutkens/smooch-languages"
+  }
 }
