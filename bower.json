@@ -1,0 +1,16 @@
+{
+  "name": "smooch-languages",
+  "main": "bower.js",
+  "authors": [
+    "Tim Neutkens"
+  ],
+  "description": "Simple language pack for Smooch",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
